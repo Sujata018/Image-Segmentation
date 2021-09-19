@@ -21,8 +21,10 @@
     <td>Porosity histogram</td>
   </th>
   <tr>
-    <td><href=https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.tif, height=30, width= 30%></td>
-    <td>Description</td>
+    <td><img src=https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.tif, height=300, width= 300></td>
+    <td>Pores</td>
+    <td>Distances</td>
+    <td>Porosity histogram</td>
   </tr>
 
   
