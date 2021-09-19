@@ -22,9 +22,9 @@
   </tr>
   <tr>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.tif" height=300 width= 300></td>
-    <td>Pores</td>
-    <td>Distances</td>
-    <td>Porosity histogram</td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_HE_Otsu_pores.bmp" height=300 width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_pore_distances.png" height=300 width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_porosity histogram.png" height=300 width= 100></td>
   </tr>
 
   
