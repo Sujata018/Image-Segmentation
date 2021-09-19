@@ -14,14 +14,14 @@
 </table>
 
 <table>
-  <th>
+  <tr>
     <td>Original image</td>
     <td>Pores</td>
     <td>Distances</td>
     <td>Porosity histogram</td>
-  </th>
+  </tr>
   <tr>
-    <td><img src=https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.tif, height=300, width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.tif", height=300, width= 300></td>
     <td>Pores</td>
     <td>Distances</td>
     <td>Porosity histogram</td>
