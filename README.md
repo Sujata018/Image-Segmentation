@@ -1,4 +1,4 @@
-# Image-Segmentation
+# Porosity characterization of Coke images
 
 ## Calculate porosity of a Coke from its image.
 
