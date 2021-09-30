@@ -6,7 +6,7 @@ from shapely.geometry import LineString,Polygon
 import numpy as np
 
 '''
-Program for porosity calculation of a coke image, using openCV and shape;y
+Program for porosity calculation of a coke image, using openCV and shapely
 '''
 def identifyPores(img,areaThresh,circleThresh=0.2):
         '''
