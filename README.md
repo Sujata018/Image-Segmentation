@@ -9,8 +9,14 @@
   </tr>
   <tr>
     <td>Coke_Porosity_histogram.py</td>
-    <td>The program identifies the pores (large, circular black regions having reflections from bottom), then draws green border on the polygonal approximation of the pores, and calculates distances between each vertices of these polygons (line drawn in yellow), that does not cross any pore. With these distances, it creates a histogram of pore distances. This histogram can be examined to understand the porosity of the coke.</td>
+    <td>Program for porosity calculation of a coke image, using openCV skimage and shapely.
+      The program identifies the pores (large, circular black regions having reflections from bottom), then draws green border on the polygonal approximation of the pores, and calculates distances between each vertices of these polygons (line drawn in yellow), that does not cross any pore. With these distances, it creates a histogram of pore distances. This histogram can be examined to understand the porosity of the coke.</td>
   </tr>
+    <tr>
+    <td>Coke_Porosity_histogram_OpenCV.py</td>
+    <td>Same functionality as above, using using OpenCV and Shapely.</td>
+  </tr>
+
 </table>
 
 <table>
