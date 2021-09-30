@@ -60,11 +60,17 @@ Automatically determine porosity of a Coke Microstructure from its image.
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0053_pore_distances.png" height=200 width= 300></td>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0053_porosity histogram.png" height=200 width= 300></td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001.jpg" height=200 width= 300></td>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_HE_Otsu_pores.bmp" height=200 width= 300></td>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_pore_distances.png" height=200 width= 300></td>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0001_porosity histogram.png" height=200 width= 300></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0002.jpg" height=200 width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0002_HE_Otsu_pores.bmp" height=200 width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0002_pore_distances.png" height=200 width= 300></td>
+    <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0002_porosity histogram.png" height=200 width= 300></td>
   </tr>
 
 </table>
