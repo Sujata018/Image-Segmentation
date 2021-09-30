@@ -2,6 +2,31 @@
 
 ## Calculate porosity of a Coke from its image.
 
+### Challenges in Computer Vision for Processing Coke Microstructure Images:
+
+<table>
+  <tr>
+    <th>Challenge</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Identification of pores</td>
+    <td>Minerals and pores are both in black color.
+        <br>Minerals are embedded inside binders and fillers, reflections from the bottom of the pores, seen using microscope, appear in lighter shre in the Coke images. 
+        <br>Pores are big and round (long when multiple pores are joined together), and have reflections from bottom inside them.
+        <br>Minerals are smaller and thinner and irregular.
+    </td>
+  </tr>
+    <tr>
+    <td>Porosity characterization</td>
+    <td>To calculate average porosity of the Coke microstructure, pairwise distances between each pores among all points in the pores' borders are to be measured.</td>
+  </tr>
+
+</table>
+ 
+
+### Source codes :
+
 <table>
   <tr>
     <td>Program name</td>
