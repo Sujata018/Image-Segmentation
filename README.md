@@ -12,7 +12,7 @@ Automatically determine porosity of a Coke Microstructure from its image.
   <tr>
     <td>Identification of pores</td>
     <td>Minerals and pores are both in black color.
-        <br>Minerals are embedded inside binders and fillers, reflections from the bottom of the pores, seen using microscope, appear in lighter shre in the Coke images. 
+        <br>Minerals are embedded inside binders and fillers in whiter shade, whereas reflections from the bottom of the pores, seen using microscope, appear in lighter shade in the Coke images. 
         <br>Pores are big and round (long when multiple pores are joined together), and have reflections from bottom inside them.
         <br>Minerals are smaller and thinner and irregular.
     </td>
