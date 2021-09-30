@@ -44,6 +44,9 @@
 
 </table>
 
+****
+### Results :
+
 <table>
   <tr>
     <th>Original image</th>
