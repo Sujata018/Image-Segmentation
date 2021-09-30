@@ -29,8 +29,8 @@
 
 <table>
   <tr>
-    <td>Program name</td>
-    <td>Description</td>
+    <th>Program name</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>Coke_Porosity_histogram.py</td>
@@ -46,10 +46,10 @@
 
 <table>
   <tr>
-    <td>Original image</td>
-    <td>Pores</td>
-    <td>Distances</td>
-    <td>Porosity histogram</td>
+    <th>Original image</th>
+    <th>Pores</th>
+    <th>Distances</th>
+    <th>Porosity histogram</th>
   </tr>
   <tr>
     <td><img src="https://github.com/Sujata018/Image-Segmentation/blob/main/images/s_0053.jpg" height=200 width= 300></td>
