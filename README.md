@@ -1,6 +1,6 @@
 # Porosity characterization of Coke images
 
-## Calculate porosity of a Coke from its image.
+Automatically determine porosity of a Coke Microstructure from its image.
 
 ### Challenges in Computer Vision for Processing Coke Microstructure Images:
 
